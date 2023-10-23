@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Divya\\source\\repos\\Atm\\Atm\\ATM.csproj": {}
+    "C:\\Users\\Divya\\Documents\\GitHub\\testjobs\\Atm\\ATM.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Divya\\source\\repos\\Atm\\Atm\\ATM.csproj": {
+    "C:\\Users\\Divya\\Documents\\GitHub\\testjobs\\Atm\\ATM.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Divya\\source\\repos\\Atm\\Atm\\ATM.csproj",
+        "projectUniqueName": "C:\\Users\\Divya\\Documents\\GitHub\\testjobs\\Atm\\ATM.csproj",
         "projectName": "ATM",
-        "projectPath": "C:\\Users\\Divya\\source\\repos\\Atm\\Atm\\ATM.csproj",
+        "projectPath": "C:\\Users\\Divya\\Documents\\GitHub\\testjobs\\Atm\\ATM.csproj",
         "packagesPath": "C:\\Users\\Divya\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Divya\\source\\repos\\Atm\\Atm\\obj\\",
+        "outputPath": "C:\\Users\\Divya\\Documents\\GitHub\\testjobs\\Atm\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Divya\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Divya\\source\\repos\\Atm\\Atm\\Atm.csproj",
-      "projectName": "Atm",
-      "projectPath": "C:\\Users\\Divya\\source\\repos\\Atm\\Atm\\Atm.csproj",
+      "projectUniqueName": "C:\\Users\\Divya\\Documents\\GitHub\\testjobs\\Atm\\ATM.csproj",
+      "projectName": "ATM",
+      "projectPath": "C:\\Users\\Divya\\Documents\\GitHub\\testjobs\\Atm\\ATM.csproj",
       "packagesPath": "C:\\Users\\Divya\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Divya\\source\\repos\\Atm\\Atm\\obj\\",
+      "outputPath": "C:\\Users\\Divya\\Documents\\GitHub\\testjobs\\Atm\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Divya\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Divya\\source\\repos\\Atm\\Models\\Models.csproj": {}
+    "C:\\Users\\Divya\\Documents\\GitHub\\testjobs\\Models\\Models.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Divya\\source\\repos\\Atm\\Models\\Models.csproj": {
+    "C:\\Users\\Divya\\Documents\\GitHub\\testjobs\\Models\\Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Divya\\source\\repos\\Atm\\Models\\Models.csproj",
+        "projectUniqueName": "C:\\Users\\Divya\\Documents\\GitHub\\testjobs\\Models\\Models.csproj",
         "projectName": "Models",
-        "projectPath": "C:\\Users\\Divya\\source\\repos\\Atm\\Models\\Models.csproj",
+        "projectPath": "C:\\Users\\Divya\\Documents\\GitHub\\testjobs\\Models\\Models.csproj",
         "packagesPath": "C:\\Users\\Divya\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Divya\\source\\repos\\Atm\\Models\\obj\\",
+        "outputPath": "C:\\Users\\Divya\\Documents\\GitHub\\testjobs\\Models\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Divya\\AppData\\Roaming\\NuGet\\NuGet.Config",
